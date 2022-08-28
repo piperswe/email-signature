@@ -1,0 +1,4 @@
+/node_modules
+/dist
+/signatures
+.DS_Store
